@@ -484,6 +484,3 @@ The most effective approach was to troubleshoot in order:
 This approach avoided unnecessary reinstallations and helped identify the actual root causes. It also produced a repeatable troubleshooting method that can be used by future team members or assessors reviewing the project.
 
 ```
-
-This version matches your individual report evidence: your role covered VM networking, Elasticsearch/Kibana dashboard work, GitHub documentation, and full pipeline troubleshooting/integration. :contentReference[oaicite:0]{index=0}
-```
